@@ -1,0 +1,9 @@
+.container-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.btn-return {
+    margin: 0 auto;
+}

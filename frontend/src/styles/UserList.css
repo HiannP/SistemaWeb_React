@@ -1,0 +1,24 @@
+.container-user-list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    list-style: none;
+    position: relative;
+    margin-right: 35px;
+}
+
+.user-item {
+    border-width: 4px;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.342);
+    font-size: 17px;
+}
+
+.container-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 30px;
+}
